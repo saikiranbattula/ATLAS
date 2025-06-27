@@ -1,4 +1,4 @@
-public class LiteralsDemonstration {
+public class LiteralsDemo {
     public static void main(String[] args) {
 
         // Integer literals in different formats
