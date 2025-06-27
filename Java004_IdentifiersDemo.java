@@ -5,7 +5,7 @@ public class Java004_IdentifiersDemo {
         int age = 25;
         double $salary = 50000.50;
         String _message = "Hello";
-        int numberofStudents = 30;
+        int numberOfStudents = 30;
 
         // Invalid Identifiers
         // int 2times = 2;             Error: Starts with number
@@ -18,6 +18,6 @@ public class Java004_IdentifiersDemo {
         System.out.println("age: " + age);
         System.out.println("$salary: " + $salary);
         System.out.println("_message: " + _message);
-        System.out.println("numberofStudents: " + numberofStudents);
+        System.out.println("numberOfStudents: " + numberOfStudents);
     }
 }
