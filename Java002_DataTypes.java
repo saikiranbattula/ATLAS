@@ -1,4 +1,4 @@
-public class DataTypes {
+public class Java002_DataTypes {
     public static void main(String[] args) {
 
         // Integer Type
